@@ -5612,63 +5612,63 @@ html {
   
   @font-face {
     font-family: 'Pt Mono';
-    src: url('fonts/pt-mono_bold.woff') format('woff'), url('fonts/pt-mono_regular.ttf') format('truetype');
+    src: url('../fonts/pt-mono_bold.woff') format('woff'), url('../fonts/pt-mono_regular.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Kom Post';
-    src: url('fonts/kom-post.ttf') format('truetype');
+    src: url('../fonts/kom-post.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Pt Mono';
-    src: url('fonts/pt-mono_regular.ttf') format('truetype'), url('fonts/pt-mono_regular.ttf') format('truetype');
+    src: url('../fonts/pt-mono_regular.ttf') format('truetype'), url('../fonts/pt-mono_regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Gochihand';
-    src: url('fonts/GochiHand-Regular.ttf') format('truetype');
+    src: url('../fonts/GochiHand-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Phorssa';
-    src: url('fonts/Phorssa.ttf') format('truetype');
+    src: url('../fonts/Phorssa.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Shnobel';
-    src: url('fonts/Shnobel-Oblique.otf') format('opentype');
+    src: url('../fonts/Shnobel-Oblique.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Shnobel';
-    src: url('fonts/Shnobel-Regular.otf') format('opentype');
+    src: url('../fonts/Shnobel-Regular.otf') format('opentype');
     font-weight: 400;
     font-style: italic;
     font-display: swap;
   }
   @font-face {
     font-family: 'Syncopate Cyr';
-    src: url('fonts/Syncopate\ Bold\ Cyr.otf') format('opentype');
+    src: url('../fonts/Syncopate\ Bold\ Cyr.otf') format('opentype');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Gochi Hand Cyrillic';
-    src: url('fonts/gochi-hand-cyrillic.otf') format('opentype');
+    src: url('../fonts/gochi-hand-cyrillic.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
